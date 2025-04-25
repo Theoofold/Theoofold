@@ -27,7 +27,7 @@ With a background in the medical field and an ever-growing passion for data anal
 Here are some things I've worked on - more coming soon
 
 - 🏥 **[Healthcare Insights](https://github.com/Theoofold/Medical-Insurance)** – analysing medical insurance
-- 📊 **[SQL Projects](https://github.com/Theoofold/Shopping-Trend)** - Data exploration  
+- 📊 **[SQL Project](https://github.com/Theoofold/Shopping-Trend)** - Data exploration  
 
 
 ---
