@@ -46,7 +46,7 @@ I’m actively open to collaborations, internships, and opportunities in data an
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/theophilusehimegbe)
 - 📝 [X](https://x.com/Theoofold)
-- 📧 [Email](ehimegbetheophilus999@gmail.com)
+- 📧 ehimegbetheophilus999@gmail.com
 
 ---
 
