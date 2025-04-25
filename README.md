@@ -2,7 +2,8 @@
 <p align="center">Data enthusiast | insights hunter | Lifelong learner</p>
 
 ---
-Welcome to my profile. I’m a curious and creative thinker with a background in the medical sector and a growing passion for data analytics. I'm a curious person that always love to know more even more than the eyes can see and not just that but turning those findings into visual stories that spark action.
+
+With a background in the medical field and an ever-growing passion for data analytics, I’m someone who thrives on curiosity and creativity. I believe data holds powerful stories beneath the surface stories that, when uncovered and visualized effectively, can drive real change. I’m always eager to learn more, explore deeper, and turn insights into impact.
 ---
 
 ### A Bit About Me
