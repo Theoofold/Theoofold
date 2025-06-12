@@ -17,7 +17,8 @@ With a background in the medical field and an ever-growing passion for data anal
 ### 🛠️ Tools & Tech I Work With
  
 - **Data Analysis:** SQL  
-- **Version Control:** GitHub  
+- **Spreadsheet:** Excel
+- **Visualization:** Power Bi
 
 
 ---
